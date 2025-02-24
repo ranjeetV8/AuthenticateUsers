@@ -3,3 +3,5 @@
 The way of authenticating the user are based on OTP verification model.
 Which will verify the right user who have the access to the account.
 
+
+# Tech used 
