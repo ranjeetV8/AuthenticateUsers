@@ -9,3 +9,4 @@ the overall complete application is build on mern stack.
 such as reactJs, Nodejs, ExppressJS and mongodb.
 
 ##Clone repo
+git clone 
